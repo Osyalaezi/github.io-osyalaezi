@@ -89,7 +89,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Key findings:**
 
 **Dashboard Overview:**
-![]()
+![BMW_Sales_Report.png](BMW_Sales_Report.png)
 
 
 
