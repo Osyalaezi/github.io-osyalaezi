@@ -76,6 +76,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Key findings:**
 
 **Dashboard Overview:**
+![project1.pbix](project1.pbix)
 
 
 
