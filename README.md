@@ -78,6 +78,20 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Dashboard Overview:**
 ![AmazonSales2025.png](AmazonSales2025.png)
 
+# Project 6
+
+**Title:**BMW_Sales_Report
+
+**Tools Used:**power Bi
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+
+
+
 
 
 
