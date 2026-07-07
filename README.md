@@ -80,7 +80,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 # Project 6
 
-**Title:**[BMW_Sales_Report](
+**Title:**[BMW_Sales_Report](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/project2.pbix)
 
 **Tools Used:**power Bi
 
@@ -89,7 +89,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Key findings:**
 
 **Dashboard Overview:**
-![AmazonSales2025.png](AmazonSales2025.png)
+![]()
 
 
 
