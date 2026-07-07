@@ -7,21 +7,37 @@
 **Tools Used:** Microsoft Excel (Filters,Slicers,pivot charts,conditional formatting)
 
 **Project Description:**
-Project Description: This project involved analysing data of C & M Motors to identify trends and patterns in sales performance for 2021. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different  Dealer regions, Transmission type,Body Style and across companies. The dashboard includes the following features:
+
+Project Description: This project involved analysing data of C & M Motors to identify trends and patterns in sales performance for 2021. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different  Dealer regions, Transmission type,Body Style and across companies.
+
+The dashboard includes the following features:
+
 Total Sales per company: Visual representation of Sales broken down by each company and  body style of cars.
+
 Total Sales by Body style: A breakdown of the total sales by body style, providing insights into sales trends over time.
+
 TOP N Cars models sold: Displays cars that is sold most, allowing for easy comparison of cars and model that move the market through out the year.
+
 Total Sales by Country: Highlights the total sales generated in each country, showcasing the performance in different companies.
+
 Additionally, the dashboard includes interactive slicers and timelines for:
+
 Month: Filter the data to view performance for a specific Body style,transimission type,colour,region and company.
+
 Country: Focus on specific countries to analyze regional performance.
+
 Product: Drill down into the performance of individual cars.
 
 **Key findings:**
+
 Regional Profitability: Identified the most profitable company and highlighted regions where performance could be improved.
+
 Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
+
 Top-Performing Products: Highlighted which car models are driving the most revenue and profit, aiding in inventory and marketing decisions.
+
 Sales Volatility: Analyzed sales fluctuations to understand market dynamics and adjust business strategies accordingly.
+
 This dashboard serves as a crucial tool for the car company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 **Dashboard Overview:**
