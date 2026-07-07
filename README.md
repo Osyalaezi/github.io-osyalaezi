@@ -24,6 +24,7 @@
 **Key findings:**
 
 **Dashboard Overview:**
+![students_survey.png#](students_survey.png)
 
 # Project 3
 
