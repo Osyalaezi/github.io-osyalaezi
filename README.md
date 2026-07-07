@@ -67,7 +67,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 # Project 5
 
-**Title:**Amazonsales25
+**Title:**[Amazonsales25](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/project1.pbix)
 
 **Tools Used:**power Bi
 
