@@ -48,11 +48,20 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 # Project 4
 
-**Title:**
+**Title:**Customer_order Extraction
 
-**SQL Code:**
+**SQL Code:**[Customer_order-Sql interogation](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/Customer_orders.Sql)
 
 **SQL Skills Used:**
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+
 
 **Project Description:**
 
