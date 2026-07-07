@@ -4,7 +4,7 @@
 
 **Title:** [C&M_MOTORS DATA](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/project1.xlsx)
 
-**Tools Used:** Microsoft Excel (Tool used)
+**Tools Used:** Microsoft Excel (Filters,Slicers,pivot charts,conditional formatting)
 
 **Project Description:**
 
@@ -14,6 +14,18 @@
 ![C&M_MOTORS.png](C&M_MOTORS.png)
 
 # Project 2
+
+**Title:** University Students Survey Dataset
+
+**Tools Used:** Microsoft Excel (Filters,Slicers,pivot charts,conditional formatting)
+
+**Project Description:**
+
+**Key findings:**
+
+**Dashboard Overview:**
+
+# Project 3
 
 **Title:**Football Data Extraction
 
