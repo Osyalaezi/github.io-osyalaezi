@@ -22,7 +22,7 @@ Total Sales by Country: Highlights the total sales generated in each country, sh
 
 Additionally, the dashboard includes interactive slicers and timelines for:
 
-Month: Filter the data to view performance for a specific Body style,transimission type,colour,region and company.
+Model: Filter the data to view performance for a specific Body style,transimission type,colour,region and company.
 
 Country: Focus on specific countries to analyze regional performance.
 
@@ -50,6 +50,26 @@ This dashboard serves as a crucial tool for the car company’s management team,
 **Tools Used:** Microsoft Excel (Filters,Slicers,pivot charts,conditional formatting)
 
 **Project Description:**
+
+Project Description: This project involved analysing data of University students to identify trends and patterns in different fields. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze University Students across different Field of study,program count,schoolarship count,online or fulltime,gender and across countries.
+
+The dashboard includes the following features:
+
+Total Students across countries: Visual representation of Students broken down by number of students per country.
+
+Total Students across fields and year of study: A breakdown of the total number of students by Field and year of study, providing insights on number of students per field, per year of study over time.
+
+Total Students on Schoolarship: A breakdown of the total number of students on schoolarship, providing insights on number of students on schoolarship trend over time.
+
+Total Student by program count: Highlights the total students generated in each program, showcasing the program with the number of students.
+
+Additionally, the dashboard includes interactive slicers and timelines for:
+
+Gender: Filter the data to view the number of different genders in each field and the university as a whole.
+
+Country: Focus on specific countries to analyze number of students.
+
+online vs fulltime: Drill down to the number and percentage of online and fulltime student.
 
 **Key findings:**
 
