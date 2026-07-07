@@ -42,8 +42,20 @@ Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant dat
 
 Data Source Specification (FROM): Specified the tables used as data sources for retrieval
 
+**Project Description:**
 
+**Technology used: SQL server**
+
+# Project 4
+
+**Title:**
+
+**SQL Code:**
+
+**SQL Skills Used:**
 
 **Project Description:**
 
-Technology used: SQL server
+**Technology used: SQL server**
+
+
