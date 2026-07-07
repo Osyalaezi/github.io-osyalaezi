@@ -76,7 +76,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 **Key findings:**
 
 **Dashboard Overview:**
-![project1.pbix](project1.pbix)
+![AmazonSales2025.png](AmazonSales2025.png)
 
 
 
