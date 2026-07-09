@@ -51,7 +51,7 @@ This dashboard serves as a crucial tool for the car company’s management team,
 
 **Project Description:**
 
-Project Description: This project involved analysing data of University students to identify trends and patterns in different fields. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze University Students across different Field of study,program count,schoolarship count,online or fulltime,gender and across countries.
+Project Description: This project involved analysing data of University students to identify trends and patterns in different fields. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze University Students across different Field of study,program,schoolarship,online or fulltime,gender and across countries.
 
 The dashboard includes the following features:
 
@@ -59,7 +59,7 @@ Total Students across countries: Visual representation of Students broken down b
 
 Total Students across fields and year of study: A breakdown of the total number of students by Field and year of study, providing insights on number of students per field, per year of study over time.
 
-Total Students on Schoolarship: A breakdown of the total number of students on schoolarship, providing insights on number of students on schoolarship trend over time.
+Total Students on Schoolarship: A breakdown of the total number of students on schoolarship, providing insights on number of students on schoolarship over time.
 
 Total Student by program count: Highlights the total students generated in each program, showcasing the program with the number of students.
 
@@ -69,9 +69,15 @@ Gender: Filter the data to view the number of different genders in each field an
 
 Country: Focus on specific countries to analyze number of students.
 
-online vs fulltime: Drill down to the number and percentage of online and fulltime student.
+online vs fulltime: Drill down to the number and percentage of online and fulltime students.
 
 **Key findings:**
+
+This dashboard serves as a crucial tool for the university's management team, providing clear, actionable insights that drive informed
+
+decision-making and strategic planning to improve teaching,shape campus resources and boost enrollment by identifying which course need 
+
+changes.
 
 **Dashboard Overview:**
 ![students_survey.png#](students_survey.png)
