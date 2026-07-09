@@ -155,6 +155,18 @@ Product: Drill down into the performance of individual products.
 
 **Key findings:**
 
+Location Profitability: Identified the most profitable Location and highlighted Location where performance could be improved.
+
+Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
+
+Top-Performing Products: Highlighted which products are driving the most Sales and profit, aiding in inventory and marketing decisions.
+
+Sales Volatility: Analyzed day and monthly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
+
+This dashboard serves as a crucial tool for the company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
+
+
+
 **Dashboard Overview:**
 ![AmazonSales2025.png](AmazonSales2025.png)
 
