@@ -129,6 +129,30 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Project Description:**
 
+This project involved analysing Amanzon Sales to identify trends and patterns in sales performance for 2025. It is designed to provide a
+
+comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s
+performance across different regions, products, and time periods. 
+
+The dashboard includes the following features:
+
+Total Sales by Category and Customer Location: Visual representation of Sales broken down by each category and Customer Location.
+
+Total product Sold per Month: A monthly breakdown of the total product sold, providing insights into sales trends over time.
+
+Sales by Month: Displays the monthly Sales, allowing for easy comparison of profitability throughout the year.
+
+Total Sales by Customer Location: Highlights the total Sales generated in each Location, showcasing the performance in different markets.
+
+Additionally, the dashboard includes interactive slicers and timeline for:
+
+Month: Filter the data to view performance for a specific day, month or range of months.
+
+Location: Focus on specific Location to analyze performance.
+
+Product: Drill down into the performance of individual products.
+
+
 **Key findings:**
 
 **Dashboard Overview:**
