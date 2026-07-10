@@ -207,7 +207,6 @@ Sales Volatility: Analyzed monthly sales fluctuations to understand market dynam
 This dashboard serves as a crucial tool for company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
 
 
-
 **Dashboard Overview:**
 ![BMW_Sales_Report.png](BMW_Sales_Report.png)
 
