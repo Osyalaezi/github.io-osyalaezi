@@ -125,7 +125,7 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Title:**[Amazonsales25](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/project1.pbix)
 
-**Tools Used:**power Bi
+**Tools Used:**power Bi(Slicers,Cards,charts,power query Editor)
 
 **Project Description:**
 
@@ -174,11 +174,39 @@ This dashboard serves as a crucial tool for the company’s management team, pro
 
 **Title:**[BMW_Sales_Report](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/project2.pbix)
 
-**Tools Used:**power Bi
+**Tools Used:**power Bi(Slicers,Cards,charts,power query Editor)
+
 
 **Project Description:**
 
+Project Description: This project involved analysing data of BMW Motors to identify trends and patterns in sales performance for 2020. It is designed to provide a comprehensive overview of key performance metrics. This dashboard allows stakeholders to easily monitor and analyze the company’s performance across different regions, Transmission type, and across different BMW Model.
+
+The dashboard includes the following features:
+
+Total Sales per Model: Visual representation of Sales broken down by each model and colour.
+
+Total Sales by Fuel type: A breakdown of the total sales by fuel type, providing insights into sales trends over time.
+
+Total Sales by Region: Highlights the total sales generated in each Region, showcasing the performance in different Regions.
+
+Additionally, the dashboard includes interactive slicers and timelines for:
+
+Model: Filter the data to view performance for a specific Fuel type,transimission type,colour and region.Also Drill down into the performance of individual cars models
+
+Regions: Focus on specific Regions to analyze regional performance.
+
 **Key findings:**
+Regional Profitability: Identified the most profitable Regions and highlighted regions where performance could be improved.
+
+Seasonal Trends: Revealed patterns in sales and profit that correspond with seasonal events, allowing for more strategic planning.
+
+Top-Performing Products: Highlighted which BMW Model are driving the most Sales and profit, aiding in inventory and marketing decisions.
+
+Sales Volatility: Analyzed monthly sales fluctuations to understand market dynamics and adjust business strategies accordingly.
+
+This dashboard serves as a crucial tool for company’s management team, providing clear, actionable insights that drive informed decision-making and strategic planning.
+
+
 
 **Dashboard Overview:**
 ![BMW_Sales_Report.png](BMW_Sales_Report.png)
