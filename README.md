@@ -84,7 +84,7 @@ changes.
 
 # Project 3
 
-**Title:**Football Data Extraction
+**Title:** Football Data Extraction
 
 **SQL Code:**[Footballdata-Sql interogation](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/Footballdata.SQL)
 
@@ -107,7 +107,7 @@ This project involves analyzing different football team for different colleges t
 
 # Project 4
 
-**Title:**Customer_order Extraction
+**Title:** Customer_order Extraction
 
 **SQL Code:**[Customer_order-Sql interogation](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/Customer_orders.Sql)
 
@@ -179,7 +179,7 @@ This dashboard serves as a crucial tool for the company’s management team, pro
 
 **Title:**[BMW_Sales_Report](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/project2.pbix)
 
-**Tools Used:**power Bi(Slicers,Cards,charts,power query Editor)
+**Tools Used:** power Bi(Slicers,Cards,charts,power query Editor)
 
 **Project Description:**
 
