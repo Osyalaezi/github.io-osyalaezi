@@ -4,7 +4,7 @@
 
 **Title:** [C&M_MOTORS DATA](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/project1.xlsx)
 
-**Tools Used:** Microsoft Excel (Filters,Slicers,pivot charts,conditional formatting)
+**Tools Used:** Microsoft Excel (Filters,Slicers,pivot charts,Pivot tables,conditional formatting,shapes)
 
 **Project Description:**
 
@@ -47,7 +47,7 @@ This dashboard serves as a crucial tool for the car company’s management team,
 
 **Title:** [University Students Survey Dataset](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/university%20students%20dataset.xlsx)
 
-**Tools Used:** Microsoft Excel (Filters,Slicers,pivot charts,conditional formatting)
+**Tools Used:** Microsoft Excel (Filters,Slicers,pivot charts,pivot tables,shapes,conditional formatting)
 
 **Project Description:**
 
