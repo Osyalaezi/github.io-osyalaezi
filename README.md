@@ -119,6 +119,8 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Project Description:**
 
+This project involves analyzing Customer Orders to gain insights into product performance,filter customer behaviour and revenue trends.
+
 **Technology used: SQL server**
 
 # Project 5
