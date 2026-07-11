@@ -100,6 +100,9 @@ Data Source Specification (FROM): Specified the tables used as data sources for 
 
 **Project Description:**
 
+This project involves analyzing different football team for different colleges to gain insights using their personal data (like year,team name,position,height weight,age) to view trends in the different teams and to filter some data using some Kpi
+
+
 **Technology used: SQL server**
 
 # Project 4
@@ -177,7 +180,6 @@ This dashboard serves as a crucial tool for the company’s management team, pro
 **Title:**[BMW_Sales_Report](https://github.com/Osyalaezi/github.io-osyalaezi/blob/main/project2.pbix)
 
 **Tools Used:**power Bi(Slicers,Cards,charts,power query Editor)
-
 
 **Project Description:**
 
